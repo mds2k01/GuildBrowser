@@ -1,5 +1,6 @@
 #import <Foundation/Foundation.h>
 #import "AFHTTPClient.h"
+//
 
 @class Character;
 @class Guild;
